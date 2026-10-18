@@ -40,21 +40,21 @@ live server 확장 프로그램이 자동 설치되지 않아 vsix 파일을 직
 
 **1. 기본 로그인 화면**
 
-![기본 로그인 화면](vscode_projcet/2.png)
+![기본 로그인 화면](vscode_projcet/1.png)
 
 **2. css 적용 후 로그인 화면**
 
-![스타일 적용](vscode_projcet/3.png)
+![스타일 적용](vscode_projcet/2.png)
 
 **3. 로그인 성공 메시지**
 
-아이디와 비밀번호가 일치하면 로그인 성공 메시지가 표시된다.
+admin 비밀번호가 일치하면 로그인 성공 메시지가 표시된다.
 
-![로그인 성공](vscode_projcet/4.png)
+![로그인 성공](vscode_projcet/3.png)
 
 **4. 로그인 성공 후 페이지 이동**
 
 로그인에 성공하면 1초 뒤 welcome.html 페이지로 이동한다.
 
-![로그인 성공 페이지](vscode_projcet/1.png)
+![로그인 성공 페이지](vscode_projcet/4.png)
 
