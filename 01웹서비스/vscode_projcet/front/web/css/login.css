@@ -1,0 +1,62 @@
+
+body {
+    font-family: "Noto Sans KR", sans-serif;
+    background: linear-gradient(135deg, #36e436, #a29bfe);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* 로그인 박스 스타일 */
+.login-container {
+    background-color: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px;
+    width: 300px;
+    text-align: center;
+}
+
+/* 제목 */
+.login-container h2 {
+    margin-bottom: 20px;
+    color: #2d3436;
+}
+
+/* 입력 필드 */
+.login-container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #2bca2b;
+    border-radius: 10px;
+    font-size: 14px;
+
+}
+
+/* 버튼 */
+.login-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #228B22;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+/* 버튼 hover 효과 */
+.login-container button:hover {
+    background-color: #74b9ff;
+}
+
+/* 메시지 영역 */
+#message {
+    margin-top: 15px;
+    font-size: 14px;
+    color: red;
+}
